@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63cd28f8-36a6-4b27-8181-009a08dcd2df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZamestnaneckySystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firmapozice/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firmapozice/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firmapozice/Vyvojar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firmapozice/Zamestnanec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firmapozice/ZamestnaneckySystemAPP.java" afterDir="false" />
+    <list default="true" id="63cd28f8-36a6-4b27-8181-009a08dcd2df" name="Changes" comment="do 6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firmapozice/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firmapozice/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firmapozice/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firmapozice/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firmapozice/Vyvojar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firmapozice/Vyvojar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firmapozice/Zamestnanec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firmapozice/Zamestnanec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firmapozice/ZamestnaneckySystemAPP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firmapozice/ZamestnaneckySystemAPP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ZamestnaneckySystemAPP.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -73,11 +68,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745314514088</updated>
-      <workItem from="1745314515203" duration="2163000" />
+      <workItem from="1745314515203" duration="2594000" />
     </task>
+    <task id="LOCAL-00001" summary="do 6">
+      <option name="closed" value="true" />
+      <created>1745317064070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745317064070</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="do 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="do 6" />
   </component>
 </project>

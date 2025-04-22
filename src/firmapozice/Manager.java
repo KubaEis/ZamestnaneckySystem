@@ -12,4 +12,5 @@ public class Manager extends Zamestnanec{
         super.vypisInfo();
         System.out.println("Pocet rizenych zamestnancu: " + pocetRizenychZamestnancu);
     }
+
 }

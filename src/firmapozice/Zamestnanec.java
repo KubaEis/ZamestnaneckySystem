@@ -49,4 +49,5 @@ public class Zamestnanec {
     public void setPlat(int plat) {
         this.plat = plat;
     }
+
 }

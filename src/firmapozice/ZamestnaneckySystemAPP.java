@@ -18,7 +18,5 @@ public class ZamestnaneckySystemAPP {
             tester.naselJsemNovouChybu();
         }
         tester.vypisInfo();
-
-
     }
 }

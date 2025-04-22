@@ -5,6 +5,7 @@ public class Tester extends Zamestnanec{
         super(jmeno, prijmeni, pozice, plat);
         this.pocetNalezenychChyb = 0;
     }
+
     public void naselJsemNovouChybu() {
         pocetNalezenychChyb++;
     }

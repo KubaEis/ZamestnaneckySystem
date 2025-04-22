@@ -7,6 +7,7 @@ public class Vyvojar extends Zamestnanec{
         super(jmeno, prijmeni, pozice, plat);
         this.listJazyku = listJazyku;
     }
+
     @Override
     public void vypisInfo() {
         super.vypisInfo();

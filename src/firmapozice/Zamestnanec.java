@@ -1,21 +1,28 @@
 package firmapozice;
 
+import java.time.LocalDate;
+
 public class Zamestnanec {
     private String jmeno;
     private String prijmeni;
     private String pozice;
     private int plat;
-    public Zamestnanec(String jmeno, String prijmeni, String pozice, int plat) {
+    private LocalDate datumNastupu;
+    public Zamestnanec(String jmeno, String prijmeni, String pozice, int plat, LocalDate datumNastupu) {
         this.jmeno = jmeno;
         this.prijmeni = prijmeni;
         this.pozice = pozice;
         this.plat = plat;
+        this.datumNastupu = datumNastupu;
     }
     public void vypisInfo(){
         System.out.println("Jmeno: " + jmeno);
         System.out.println("Prijmeni: " + prijmeni);
         System.out.println("Pozice: " + pozice);
         System.out.println("Plat: " + plat);
+    }
+    public void vypoctiOdpracovaneDny(){
+        //datumNastupu = LocalDate.now().);
     }
 
     public String getJmeno() {
